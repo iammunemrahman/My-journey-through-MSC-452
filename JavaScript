@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>How Can Charmander Evolve?</h2>
+
+<p>Charmander can breathe fire.</p>
+
+<p>Charmander is a small, bipedal, dinosaur-like Pokémon. Most of its body is colored orange, while its underbelly is a pale light-yellow color. Charmander, like its evolved forms, has a flame that constantly burns on the end of its tail. However, If the flame on Charmander's tail goes out, Charmander is known to die.</p>
+
+<button onclick="document.getElementById('myImage').src='C:/Users/16304075/Desktop/452%20Class%2016/P5162_701-04120_01.jpg'">Evolve</button>
+
+<img id="myImage" src="C:/Users/16304075/Desktop/452%20Class%2016/maxresdefault.jpg" style="width:100px">
+
+<button onclick="document.getElementById('myImage').src='C:/Users/16304075/Desktop/452%20Class%2016/maxresdefault.jpg'">Go Back</button>
+
+</body>
+</html>
