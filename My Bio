@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Md. Munem Shahriar Rahman</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Times New Roman;
+}
+
+header {
+  background-color: #41B3A3;
+  padding: 10px;
+  text-align: center;
+  font-size: 40px;
+  color: white;
+}
+img {
+  border-radius: 50%;
+}
+
+nav {
+  float: left;
+  width: 30%;
+  height: 500px;
+  background: #E8A87C;
+  padding: 20px;
+  color: white;
+}
+
+nav ul {
+  list-style-type: lower-roman;
+  padding: 10px;
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: #E27D60;
+  height: 500px;
+  color: white;
+}
+  
+section: {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media (max-width: 50px) {
+  nav, article {
+    width: 100%;
+    height: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+
+<header>
+  <h2><img style="padding: 15px; float: center;" src="C:/Users/user/Desktop/Md.%20Munem%20Shahriar%20Rahman_16304075.jpg" alt="Md. Munem Shahriar Rahman_16304075" width="120px" height="100px" align="center">Md. Munem Shahriar Rahman</h2>
+</header>
+
+<section>
+  <nav>
+  <h1>My Social media Profile:</h1>
+    <ul>
+      <li><a href="https://bd.linkedin.com/in/iammunemrahman" style="color:white" target="_blank">Linkedin</a></li>
+      <li><a href="https://facebook.com/iammunemrahman" style="color:white" target="_blank">Facebook</a></li>
+      <li><a href="https://www.instagram.com/iammunemrahman" style="color:white" target="_blank">Instagram</a></li>
+      <li><a href="https://twitter.com/iammunemrahman" style="color:white" target="_blank">Twitter</a></li>
+    </ul>
+  </nav>
+  
+  <article>
+    <h1>About Myself:</h1>
+    <p>
+    I am Md. Munem Shahriar Rahman.<br>
+    I am doing my undergraduate at <a href="https://www.bracu.ac.bd/academics/institutes-and-schools/brac-business-school"style="color:white" target="_blank">Brac Business School</a>.<br>
+    I am dependable and detail-oriented.<br>
+    I am flexible.<br>
+    I am interested in learning new things<br>
+    </p>
+  </article>
+</section>
+</body>
+</html>
